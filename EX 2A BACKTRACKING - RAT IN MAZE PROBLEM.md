@@ -33,8 +33,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 
 ## Program:
 ```
- Developed by: Yuva Krishna K 
- Register Number:  212222110056
+ Developed by: AMURTHA VAAHINI KN
+ Register Number:  212222240008
 ```
 ```
 N = 4
