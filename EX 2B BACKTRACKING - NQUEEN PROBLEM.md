@@ -25,8 +25,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 10.Print the board showing where the queens are placed (with 1s), or print "No solution" if it doesn't work.
 ## Program:
 ```
-# Developed by: Yuva Krishna K 
-# Register Number:  212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number:  212222240008
 
 global N
 N = int(input())
