@@ -25,8 +25,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K 
-# Register Number:  212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number:  212222240008
 
 def SubsetSum(a,i,sum,target,n):
     if i == n:
